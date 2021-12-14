@@ -1,0 +1,126 @@
+order,family,scientific_name,common_name,rdb2_status,rdb3_status
+Gymnophiona,Icthyophiidae,Icthyophis sp.,Asian Striped Caecilian,CR,CR
+Anura,Bufonidae,Ingerophrynus quadriporcatus,Four-ridged Toad,Not Listed,VU
+Anura,Bufonidae,Pelophryne ingeri,Inger's Cross Toadlet,CR,CR
+Anura,Megophryidae,Megophrys nasuta,Malayan Horned Frog,EN,CR
+Anura,Dicroglossidae,Limnonectes paramacrodon,Lesser Swamp Frog,EN,CR
+Anura,Dicroglossidae,Limnonectes plicatellus,Rhinoceros Frog,EN,CR
+Anura,Ranidae,Pulchrana baramica,Golden-eared Rough-sided Frog,VU,VU
+Anura,Rhacophoridae,Nyctixalus pictus,Cinnamon Bush Frog,VU,VU
+Anura,Rhacophoridae,Rhacophorus cyanopunctatus,Blue-legged Bush Frog,CR,CR
+Anura,Rhacophoridae,Theloderma horridum,Thorny Bush Frog,CR,CR
+Anura,Microhylidae,Kalophrynus limbooliati,Limbooliat's Sticky Frog,VU,VU
+Anura,Microhylidae,Microhyla mantheyi,Manthey's Chorus Frog,CR,VU
+Pholidota,Manidae,Manis javanica,Sunda Pangolin,CR,CR
+Rodentia,Sciuridae,Hylopetes spadiceus,Red-cheeked Flying Squirrel,CR,CR
+Rodentia,Sciuridae,Iomys horsfieldii,Horsfield’s Flying Squirrel,Not Listed,EN
+Rodentia,Sciuridae,Petaurista petaurista,Red Giant Flying Squirrel,CR,CR
+Rodentia,Sciuridae,Rhinosciurus laticaudatus,Shrew-faced Ground Squirrel,CR,CR
+Rodentia,Muridae,Maxomys rajah,Brown Spiny Rat,EN,EN
+Rodentia,Hystricidae,Hystrix brachyura,Malayan Porcupine,CR,CR
+Carnivora,Felidae,Prionailurus bengalensis,Leopard Cat,CR,CR
+Carnivora,Viverridae,Arctogalidia trivirgata,Small-toothed Palm Civet,CR,CR
+Carnivora,Viverridae,Paguma larvata,Masked Palm Civet,CR,CR
+Carnivora,Viverridae,Viverra tangalunga,Malay Civet,Not Listed,CR
+Carnivora,Viverridae,Viverra zibetha,Large Indian Civet,CR,CR
+Carnivora,Mustelidae,Aonyx cinereus,Oriental Small-clawed Otter,CR,CR
+Carnivora,Mustelidae,Lutrogale perspicillata,Smooth Otter,CR,EN
+Artiodactyla,Tragulidae,Tragulus kanchil,Lesser Mousedeer,CR,EN
+Artiodactyla,Tragulidae,Tragulus napu,Greater Mousedeer,Not Listed,CR
+Artiodactyla,Cervidae,Muntiacus muntjak,Red Muntjac,Not Listed,CR
+Primates,Lorisidae,Nycticebus coucang,Sunda Slow Loris,CR,EN
+Primates,Cercopithecidae,Presbytis femoralis,Raffles’ Banded Langur,CR,CR
+Chiroptera,Pteropodidae,Eonycteris spelaea,Cave Nectar Bat,Not Listed,VU
+Chiroptera,Pteropodidae,Macroglossus minimus,Lesser Long-tongued Nectar Bat,VU,VU
+Chiroptera,Pteropodidae,Penthetor lucasi,Dusky Fruit Bat,EN,CR
+Chiroptera,Pteropodidae,Pteropus vampyrus,Large Flying-Fox,Not Listed,CR
+Chiroptera,Rhinolophidae,Rhinolophus morio,Greater Woolly Horseshoe Bat,CR,CR
+Chiroptera,Rhinolophidae,Rhinolophus stheno,Lesser Brown Horseshoe Bat,Not Listed,CR
+Chiroptera,Rhinolophidae,Rhinolophus trifoliatus,Trefoil Horseshoe Bat,CR,EN
+Chiroptera,Hipposideridae,Hipposideros bicolor,Bicoloured Roundleaf Bat,Not Listed,EN
+Chiroptera,Hipposideridae,Hipposideros cervinus,Fawn Roundleaf Bat,Not Listed,CR
+Chiroptera,Hipposideridae,Hipposideros cineraceus,Ashy Roundleaf Bat,Not Listed,CR
+Chiroptera,Hipposideridae,Hipposideros ridleyi,Ridley’s Roundleaf Bat,Not Listed,CR
+Chiroptera,Megadermatidae,Megaderma spasma,Lesser False-Vampire,CR,EN
+Chiroptera,Emballonuridae,Emballonura monticola,Lesser Sheath-tailed Bat,CR,CR
+Chiroptera,Emballonuridae,Taphozous longimanus,Long-winged Tomb Bat,Not Listed,CR
+Chiroptera,Nycteridae,Nycteris tragata,Malayan Slit-faced Bat,CR,CR
+Chiroptera,Molossidae,Cheiromeles torquatus,Naked Bat,CR,CR
+Chiroptera,Vespertilionidae,Hypsugo macrotis,Big-eared Pipistrelle,Not Listed,CR
+Chiroptera,Vespertilionidae,Kerivoula hardwickii,Hardwicke’s Woolly Bat,Not Listed,CR
+Chiroptera,Vespertilionidae,Murina suilla,Lesser Tube-nosed Bat,CR,CR
+Chiroptera,Vespertilionidae,Tylonycteris fulvida,Lesser Bamboo Bat,CR,VU
+Chiroptera,Vespertilionidae,Tylonycteris malayana,Greater Bamboo Bat,Not Listed,VU
+Cetacea,Delphinidae,Orcaella brevirostris,Irrawaddy Dolphin,Not Listed,CR
+Testudines,Trionychidae,Amyda cartilaginea,Asian Softshell,EN,VU
+Testudines,Geoemydidae,Cyclemys dentata,Asian Leaf Turtle,CR,CR
+Testudines,Trionychidae,Dogania suplana,Malayan Softshell Turtle,CR,CR
+Testudines,Geoemydidae,Heosemys spinosa,Spiny Hill Turtle,VU,EN
+Testudines,Geoemydidae,Notochelys platynota,Malayan Flatshell Turtle,EN,CR
+Testudines,Cheloniidae,Eretmochelys imbricata,Hawksbill Turtle,CR,CR
+Testudines,Cheloniidae,Chelonia mydas,Green Sea Turtle,CR,CR
+Crocodylia,Crocodylidae,Crocodylus porosus,Estuarine Crocodile,CR,CR
+Squamata,Agamidae,Aphaniotis fusca,Earless Agamid,EN,EN
+Squamata,Agamidae,Draco melanopogon,Black-bearded Gliding Lizard,VU,VU
+Squamata,Agamidae,Draco quinquefasciatus,Five-banded Gliding Lizard,EN,EN
+Squamata,Gekkonidae,Aeluroscalabotes felinus,Fox-faced Gecko,CR,CR
+Squamata,Gekkonidae,Cnemaspis peninsularis,Peninsular Rock Gecko,VU,VU
+Squamata,Gekkonidae,Cyrtodactylus consobrinus,Peter's Bent-toed Gecko,CR,CR
+Squamata,Gekkonidae,Cyrtodactylus majulah,Singapore Bent-toed Gecko,Not Listed,VU
+Squamata,Gekkonidae,Cyrtodactylus pantiensis,Panti Bent-toed Gecko,Not Listed,CR
+Squamata,Gekkonidae,Cyrtodactylus semenanjungensis,Peninsular Bent-toed Gecko,Not Listed,CR
+Squamata,Gekkonidae,Cyrtodactylus quadrivirgatus,Striped Bent-toed Gecko,VU,CR
+Squamata,Gekkonidae,Gekko smithii,Green-eyed Forest Gecko,CR,CR
+Squamata,Gekkonidae,Cosymbotus craspedotus,Frilly Gecko,CR,CR
+Squamata,Gekkonidae,Luperosaurus browni,Flap-legged Gecko,CR,CR
+Squamata,Gekkonidae,Gekko kuhli,Kuhl's Gliding Gecko,CR,CR
+Squamata,Scincidae,Dasia grisea,Brown Tree Skink,EN,VU
+Squamata,Scincidae,Dasia olivacea,Olive Tree Skink,EN,CR
+Squamata,Scincidae,Emoia atrocostata,Mangrove Skink,EN,CR
+Squamata,Scincidae,Eutropis rugifera,Rough-scaled Sun Skink,EN,VU
+Squamata,Scincidae,Lipinia vittigera,Striped Tree Skink,EN,EN
+Squamata,Scincidae,Tytthoscincus temasekensis,Swamp Skink,CR,EN
+Squamata,Varanidae,Varanus dumerili,Dumeril's Monitor,Not Listed,CR
+Squamata,Typhlopidae,Ramphotyphlops lineatus,Lineated Blind Snake,Not Listed,CR
+Squamata,Typhlopidae,Argyrophis muelleri,White-bellied Blind Snake,CR,CR
+Squamata,Cylindrophidae,Cylindrophis cf. ruffus,Red-tailed Pipe Snake,CR,VU
+Squamata,Colubridae,Ahaetulla fasciolata,Speckle-headed Whip Snake,CR,CR
+Squamata,Colubridae,Ahaetulla mycterizans,Big-eyed Whip Snake,CR,VU
+Squamata,Colubridae,Boiga cynodon,Dog-toothed Cat Snake,EN,VU
+Squamata,Colubridae,Boiga drapiezii,White-spotted Cat Snake,Not Listed,CR
+Squamata,Colubridae,Boiga jaspidea,Jasper's Cat Snake,CR,CR
+Squamata,Colubridae,Calamaria lumbricoidea,Variable Reed Snake,EN,EN
+Squamata,Colubridae,Calamaria lovi gimletti,Gimlet’s Reed Snake,Not Listed,EN
+Squamata,Colubridae,Dendrelaphis haasi,Haas' Bronzeback,Not Listed,CR
+Squamata,Colubridae,Dendrelaphis formosus,Elegant Bronzeback,EN,VU
+Squamata,Colubridae,Dendrelaphis cyanochloris,Blue Bronzeback,Not Listed,EN
+Squamata,Colubridae,Lycodon subannulatus,Malayan Bridle Snake,EN,EN
+Squamata,Colubridae,Dryophiops rubescens,Keel-bellied Whip Snake,CR,EN
+Squamata,Colubridae,Gonglyosoma baliodeirum,Orange-bellied Ringneck,EN,EN
+Squamata,Colubridae,Gonyosoma oxycephalum,Red-tailed Racer,EN,VU
+Squamata,Colubridae,Lycodon subcinctus,Banded Wolf Snake,CR,CR
+Squamata,Colubridae,Oligodon purpurascens,Brown Kukri Snake,CR,CR
+Squamata,Colubridae,Oligodon signatus,Barred Kukri Snake,CR,EN
+Squamata,Colubridae,Ptyas carinata,Keeled Rat Snake,Not Listed,VU
+Squamata,Colubridae,Ptyas fusca,White-bellied Rat Snake,EN,VU
+Squamata,Colubridae,Sibynophis melanocephalus,Black-headed Collared Snake,EN,VU
+Squamata,Colubridae,Xenelaphis hexagonatus,Malayan Brown Snake,EN,CR
+Squamata,Paretidae,Asthenodipsas laevis,Smooth Slug Snake,Not Listed,CR
+Squamata,Homalopsidae,Cantoria violacea,Cantor's Water Snake,CR,EN
+Squamata,Homalopsidae,Fordonia leucobalia,Crab-eating Water Snake,EN,EN
+Squamata,Homalopsidae,Gerarda prevostiana,Gerard's Water Snake,EN,EN
+Squamata,Homalopsidae,Homalopsis buccata,Puff-faced Water Snake,VU,VU
+Squamata,Homalopsidae,Phytolopsis punctata,Blackwater Mud Snake,Not Listed,CR
+Squamata,Homalopsidae,Raclitia indica,Selangor Mud Snake,Not Listed,CR
+Squamata,Natricidae,Rhabdophis rhodomelas,Blue-necked Keelback,EN,VU
+Squamata,Natricidae,Psammodynastes pictus,Painted Mock Viper,CR,CR
+Squamata,Natricidae,Xenochrophis maculatus,Spotted Keelback,VU,VU
+Squamata,Natricidae,Xenochrophis trianguligerus,Triangle Keelback,CR,CR
+Squamata,Elapidae,Bungarus fasciatus,Banded Krait,EN,VU
+Squamata,Elapidae,Calliophis bivirgatus,Malayan Blue Coral Snake,VU,VU
+Squamata,Elapidae,Ophiophagus hannah,King Cobra,EN,VU
+Squamata,Elapidae,Laticauda colubrina,Yellow-lipped Sea Krait,EN,VU
+Squamata,Viperidae,Trimeresurus purpureomaculatus,Shore Pit Viper,EN,VU
+Squamata,Elapidae,Aipysurus eydouxii,Marbled Sea Snake,Not Listed,EN
+Squamata,Elapidae,Hydrophis hardwickii,Hardwicke's Sea Snake,Not Listed,EN
+Squamata,Elapidae,Hydrophis platurus,Yellow-bellied Sea Snake,Not Listed,EN

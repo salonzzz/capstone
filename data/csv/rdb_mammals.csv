@@ -1,0 +1,84 @@
+﻿No.,Order,Family,Genus,Species,Common name,Origin,Global IUCN status,RDB2 status,RDB3 status
+1,Dermoptera,Cynocephalidae,Galeopterus,variegatus,Sunda Colugo,Native,LC,Not Listed,NT
+2,Pholidota,Manidae,Manis,javanica,Sunda Pangolin,Native,CR,CR,CR
+3,Rodentia,Sciuridae,Callosciurus,notatus,Plantain Squirrel,Native,LC,Not Listed,LC
+4,Rodentia,Sciuridae,Callosciurus,finlaysonii,Variable Squirrel,Introduced,LC,Not Listed,Not Applicable
+5,Rodentia,Sciuridae,Hylopetes,spadiceus,Red-cheeked Flying Squirrel,Native,LC,CR,CR
+6,Rodentia,Sciuridae,Iomys,horsfieldii,Horsfield’s Flying Squirrel,Native,LC,Not Listed,EN
+7,Rodentia,Sciuridae,Lariscus,insignis,Three-striped Ground Squirrel,Native,LC,Not Listed,NEx
+8,Rodentia,Sciuridae,Petaurista,petaurista,Red Giant Flying Squirrel,Native,LC,CR,CR
+9,Rodentia,Sciuridae,Ratufa,affinis,Cream-coloured Giant Squirrel,Native,NT,CR,NEx
+10,Rodentia,Sciuridae,Rhinosciurus,laticaudatus,Shrew-faced Ground Squirrel,Native,NT,CR,CR
+11,Rodentia,Sciuridae,Sundasciurus,tenuis,Slender Squirrel,Native,LC,Not Listed,LC
+12,Rodentia,Muridae,Maxomys,rajah,Brown Spiny Rat,Native,VU,EN,EN
+13,Rodentia,Muridae,Maxomys,surifer,Red Spiny Rat,Native,LC,Not Listed,NEx
+14,Rodentia,Muridae,Mus,musculus,Asian House Mouse,Native,LC,Not Listed,LC
+15,Rodentia,Muridae,Rattus,exulans,Pacific Rat,Native,LC,Not Listed,LC
+16,Rodentia,Muridae,Rattus,norvegicus,Brown Rat,Introduced,LC,Not Listed,Not Applicable
+17,Rodentia,Muridae,Rattus,tanezumi,Asian House Rat,Native,LC,Not Listed,LC
+18,Rodentia,Muridae,Rattus,tiomanicus,Malaysian Wood Rat,Native,LC,Not Listed,LC
+19,Rodentia,Muridae,Sundamys,annandalei,Annandale’s Rat,Native,Not Listed,Not Listed,LC
+20,Rodentia,Hystricidae,Hystrix,brachyura,Malayan Porcupine,Native,LC,CR,CR
+21,Carnivora,Felidae,Panthera,pardus,Leopard,Native,VU,Not Listed,NEx
+22,Carnivora,Felidae,Panthera,tigris,Tiger,Native,EN,Not Listed,NEx
+23,Carnivora,Felidae,Prionailurus,bengalensis,Leopard Cat,Native,LC,CR,CR
+24,Carnivora,Viverridae,Arctogalidia,trivirgata,Small-toothed Palm Civet,Native,LC,CR,CR
+25,Carnivora,Viverridae,Paguma,larvata,Masked Palm Civet,Native,LC,CR,CR
+26,Carnivora,Viverridae,Paradoxurus,musangus,Sumatran Palm Civet,Native,LC,Not Listed,LC
+27,Carnivora,Viverridae,Viverra,tangalunga,Malay Civet,Native,LC,Not Listed,CR
+28,Carnivora,Viverridae,Viverra,zibetha,Large Indian Civet,Native,LC,CR,CR
+29,Carnivora,Mustelidae,Aonyx,cinereus,Oriental Small-clawed Otter,Native,VU,CR,CR
+30,Carnivora,Mustelidae,Lutra,sumatrana,Hairy-nosed Otter,Native,EN,Not Listed,NEx
+31,Carnivora,Mustelidae,Lutrogale,perspicillata,Smooth Otter,Native,VU,CR,EN
+32,Artiodactyla,Suidae,Sus,scrofa,Eurasian Wild Boar,Native,LC,Not Listed,LC
+33,Artiodactyla,Tragulidae,Tragulus,kanchil,Lesser Mousedeer,Native,LC,CR,EN
+34,Artiodactyla,Tragulidae,Tragulus,napu,Greater Mousedeer,Native,LC,Not Listed,CR
+35,Artiodactyla,Cervidae,Muntiacus,muntjak,Red Muntjac,Native,LC,Not Listed,CR
+36,Artiodactyla,Cervidae,Rusa,unicolor,Sambar Deer,Origin Uncertain,VU,Not Listed,Not Applicable
+37,Primates,Lorisidae,Nycticebus,coucang,Sunda Slow Loris,Native,EN,CR,EN
+38,Primates,Cercopithecidae,Macaca,fascicularis,Long-tailed Macaque,Native,VU,Not Listed,LC
+39,Primates,Cercopithecidae,Presbytis,femoralis,Raffles’ Banded Langur,Native,EN,CR,CR
+40,Primates,Cercopithecidae,Trachypithecus,obscurus,Dusky Langur,Origin Uncertain,EN,Not Listed,Not Applicable
+41,Scandentia,Tupaiidae,Tupaia,glis,Common Treeshrew,Native,LC,Not Listed,LC
+42,Soricomorpha,Soricidae,Crocidura,malayana,Malayan Shrew,Native,LC,Not Listed,DD
+43,Soricomorpha,Soricidae,Suncus,murinus,House Shrew,Native,LC,Not Listed,LC
+44,Chiroptera,Pteropodidae,Cynopterus,brachyotis,Lesser Short-nosed Fruit Bat,Native,LC,Not Listed,LC
+45,Chiroptera,Pteropodidae,Eonycteris,spelaea,Cave Nectar Bat,Native,LC,Not Listed,VU
+46,Chiroptera,Pteropodidae,Macroglossus,minimus,Lesser Long-tongued Nectar Bat,Native,LC,VU,VU
+47,Chiroptera,Pteropodidae,Penthetor,lucasi,Dusky Fruit Bat,Native,LC,EN,CR
+48,Chiroptera,Pteropodidae,Pteropus,vampyrus,Large Flying-Fox,Native,NT,Not Listed,CR
+49,Chiroptera,Rhinolophidae,Rhinolophus,refulgens,Glossy Horseshoe Bat,Native,NA,Not Listed,LC
+50,Chiroptera,Rhinolophidae,Rhinolophus,morio,Greater Woolly Horseshoe Bat,Native,LC,CR,CR
+51,Chiroptera,Rhinolophidae,Rhinolophus,stheno,Lesser Brown Horseshoe Bat,Native,LC,Not Listed,CR
+52,Chiroptera,Rhinolophidae,Rhinolophus,trifoliatus,Trefoil Horseshoe Bat,Native,NT,CR,EN
+53,Chiroptera,Hipposideridae,Hipposideros,bicolor,Bicoloured Roundleaf Bat,Native,LC,Not Listed,EN
+54,Chiroptera,Hipposideridae,Hipposideros,cervinus,Fawn Roundleaf Bat,Native,LC,Not Listed,CR
+55,Chiroptera,Hipposideridae,Hipposideros,cineraceus,Ashy Roundleaf Bat,Native,LC,Not Listed,CR
+56,Chiroptera,Hipposideridae,Hipposideros,ridleyi,Ridley’s Roundleaf Bat,Native,VU,Not Listed,CR
+57,Chiroptera,Megadermatidae,Megaderma,spasma,Lesser False-Vampire,Native,LC,CR,EN
+58,Chiroptera,Emballonuridae,Emballonura,monticola,Lesser Sheath-tailed Bat,Native,LC,CR,CR
+59,Chiroptera,Emballonuridae,Saccolaimus,saccolaimus,Pouched Tomb Bat,Native,LC,Not Listed,LC
+60,Chiroptera,Emballonuridae,Taphozous,longimanus,Long-winged Tomb Bat,Native,LC,Not Listed,CR
+61,Chiroptera,Emballonuridae,Taphozous,melanopogon,Black-bearded Tomb Bat,Native,LC,EN,LC
+62,Chiroptera,Nycteridae,Nycteris,tragata,Malayan Slit-faced Bat,Native,NT,CR,CR
+63,Chiroptera,Molossidae,Chaerephon,plicata,Asian Wrinkle-lipped Bat,Native,LC,Not Listed,NEx
+64,Chiroptera,Molossidae,Cheiromeles,torquatus,Naked Bat,Native,LC,CR,CR
+65,Chiroptera,Vespertilionidae,Hypsugo,macrotis,Big-eared Pipistrelle,Native,DD,Not Listed,CR
+66,Chiroptera,Vespertilionidae,Kerivoula,hardwickii,Hardwicke’s Woolly Bat,Native,LC,Not Listed,CR
+67,Chiroptera,Vespertilionidae,Murina,suilla,Lesser Tube-nosed Bat,Native,LC,CR,CR
+68,Chiroptera,Vespertilionidae,Myotis,horsfieldii,Horsfield’s Myotis,Native,LC,Not Listed,LC
+69,Chiroptera,Vespertilionidae,Myotis,muricola,Asian Whiskered Myotis,Native,LC,Not Listed,LC
+70,Chiroptera,Vespertilionidae,Pipistrellus,javanicus,Javan Pipistrelle,Native,LC,Not Listed,LC
+71,Chiroptera,Vespertilionidae,Pipistrellus,stenopterus,Narrow-winged Pipistrelle,Native,LC,CR,LC
+72,Chiroptera,Vespertilionidae,Scotophilus,kuhlii,Lesser Asian House Bat,Native,LC,Not Listed,LC
+73,Chiroptera,Vespertilionidae,Tylonycteris,fulvida,Lesser Bamboo Bat,Native,NA,CR,VU
+74,Chiroptera,Vespertilionidae,Tylonycteris,malayana,Greater Bamboo Bat,Native,LC,Not Listed,VU
+75,Perissodactyla,Tapiridae,Tapirus,indicus,Malayan Tapir,Vagrant,EN,Not Listed,Not Applicable
+76,Proboscidea,Elephantidae,Elephas,maximus,Asian Elephant,Vagrant,EN,Not Listed,Not Applicable
+77,Cetacea,Delphinidae,Orcaella,brevirostris,Irrawaddy Dolphin,,EN,Not Listed,CR
+78,Cetacea,Delphinidae ,Pseudorca , crassidens,Indo-Pacific False Killer Whale ,,NT ,Not Listed ,Not Evaluated 
+79 ,Cetacea,Delphinidae ,Sousa , chinensis,Indo-Pacific Humpbacked Dolphin ,, VU,EN ,CR 
+80 ,Cetacea,Delphinidae ,Tursiops , aduncus,Indo-Pacific Bottlenose Dolphin ,, NT,Not Listed ,CR 
+81 ,Cetacea,Phocoenidae ,Neophocaena , phocaenoides,Finless Porpoise ,, VU,CR ,CR 
+82 ,Cetacea,Physeteridae ,Physeter, macrocephalus,Sperm Whale ,, EN,Not Listed ,Not Evaluated 
+83 ,Sirenia ,Dugongidae,Dugong, dugon,Dugong,, VU,CR ,CR 
